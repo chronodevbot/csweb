@@ -1,0 +1,74 @@
+<html>
+    <head>
+       <title>
+           My Web page
+       </title> 
+       
+       <style type="text/css">
+div {
+    background-image:url();
+}
+a {
+    background-color:white;
+	text-decoration:none;
+	
+}
+#navbar {
+    border-style:dotted solid;
+    border-color:black;
+
+}
+#hi {
+    color:green;
+    margin:30px;
+    font-family:Arial,sans-serif;
+}
+li {
+    color:blue;
+    text-align:center;
+}
+table{
+    border: 3px dotted red;
+}
+th {
+    background-color:lightgray;
+}
+
+</style>
+       <h1 id="hi">HIIIII</h1>
+    </head>
+    
+    <body>
+        <ul>
+        <li>First</li>
+        <li>Second</li>
+        <li>Third</li>
+        </ul>
+        <ol>
+        <li>First</li>
+        <li>Second</li>
+        <li>Third</li>
+        </ol>
+        
+        <p> hi</p>
+height = "" width = "300p"     
+    <table>
+        <tr>
+            <th>First Pres </th>
+            <th>Sec Pres </th>
+            
+        </tr>
+        <tr>
+            <td> George</td>
+            <td> Lincoln</td>
+            
+        </tr>
+    </table>
+    
+    <form>
+        <input type="text" Full Name>
+        <button>Submit!</button>
+        
+    </form>
+    </body>
+</html>
